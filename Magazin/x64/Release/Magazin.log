@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Matei\source\repos\Magazin\Magazin\angajati.h(40,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\angajati.h(85,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\angajati.h(192,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\angajati.h(259,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\angajati.h(289,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\servicii.h(39,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\servicii.h(139,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\produse.h(38,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\produse.h(141,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\produse.h(204,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\produse.h(232,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\raioane.h(39,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matei\source\repos\Magazin\Magazin\raioane.h(138,24): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 173 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Magazin.vcxproj -> C:\Users\Matei\source\repos\Magazin\x64\Release\Magazin.exe
